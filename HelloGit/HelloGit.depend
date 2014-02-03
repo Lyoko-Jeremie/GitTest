@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1353751060 source:h:\github\gittest\hellogit\main.cpp
+	<iostream>
+
