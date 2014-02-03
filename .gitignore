@@ -221,7 +221,8 @@ pip-log.txt
 #################
 
 *.cbp
-
+*.depend
+*.layout
 
 
 
